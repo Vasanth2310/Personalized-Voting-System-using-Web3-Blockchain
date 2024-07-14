@@ -1,13 +1,13 @@
-Personalized Voting System using Web3 & Blockchain
+**Personalized Voting System using Web3 & Blockchain**
 The Personalized Voting System is a decentralized application (dApp) built on Web3 technologies and blockchain, designed to facilitate secure and transparent voting processes. Utilizing the Soroban framework, this project integrates smart contracts to manage various aspects of the voting lifecycle.
 
 
 
 
-Project Overview
+**Project Overview**
 This project leverages blockchain's immutable ledger and smart contracts to ensure the integrity and transparency of voting procedures. The Soroban smart contracts employed in this application include:
 
-record_votes()
+#record_votes()
 Handles the process of recording votes cast by users securely on the blockchain, ensuring each vote is verifiable and tamper-proof.
 
 view_poll()
